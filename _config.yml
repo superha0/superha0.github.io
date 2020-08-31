@@ -21,7 +21,7 @@ user:
   name: superha0
   pic: /assets/img/ha0.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: 컴퓨터 전공 / IT Programmer
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
